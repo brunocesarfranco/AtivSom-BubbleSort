@@ -11,6 +11,7 @@ Projeto desenvolvido em JAVA para a matéria de Métodos de Pesquisa e Ordenaç�
 ### Alunos Envolvidos
 - Bruno Cesar de Oliveira Franco
 - Bruno Teski Mendes
+- Gustavo Eduardo Adoryan Hennig
 
 ### Explicação
 - O Bubble Sort baseia-se na ideia de comparar repetidamente pares de elementos adjacentes e, em seguida, trocar as suas posições se existirem na ordem errada.
